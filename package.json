@@ -1,0 +1,22 @@
+{
+  "name": "noindex-equiper",
+  "version": "1.0.0",
+  "description": "Add noindex to HTML(.html or .htm).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "isaxxx",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cpx": "^1.5.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "glob": "^7.1.3",
+    "glob-base": "^0.3.0",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.3"
+  }
+}
